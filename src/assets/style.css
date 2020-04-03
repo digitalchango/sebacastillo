@@ -1,0 +1,17 @@
+/*Header*/
+/*
+header{
+    background-color: blue;
+    padding: 10px;
+}
+*/
+.social-header-footer{
+    color: #fff;
+}
+a.nav-item.d-none.d-sm-none.d-md-block {
+    color: white;
+}
+#menu-header{
+    background-color: #1e1e1e !important;
+}
+/*Header*/
